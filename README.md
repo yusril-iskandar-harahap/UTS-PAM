@@ -2,6 +2,8 @@
 Nama Aplikasi :
 Pemutar Musik dan Video Sederhana
 
+Kode ada di branch master
+
 Deskripsi Aplikasi
 - Aplikasi ini digunakan untuk memutar sebuah musik
 - Aplikasi ini juga digunakan untuk memutar sebuah video
