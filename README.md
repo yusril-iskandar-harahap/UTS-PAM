@@ -19,4 +19,6 @@ Penginstalan dapat dilakukan dengan mengetikan kode 'npx expo install expo-av'
 pada cmd (jika menggunakan OS Windows)
 
 Cara menginstal aplikasi
-Penginstalan aplikasi dapat dilakukan dengan
+Penginstalan aplikasi dapat dilakukan dengan menggunakan menuliskan kode
+expo build:android, pilih apk, generate key, (butuh login jika pertama kali)
+karena sebuah kendala apk tidak dapat dibuild
