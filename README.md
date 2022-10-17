@@ -1,6 +1,6 @@
 # UTS-PAM
 Nama Aplikasi :
-Pemutar Musik dan Video Sederhana
+uts / Pemutar Musik dan Video Sederhana
 
 Kode ada di branch master
 
@@ -22,3 +22,6 @@ Cara menginstal aplikasi
 Penginstalan aplikasi dapat dilakukan dengan menggunakan menuliskan kode
 expo build:android, pilih apk, generate key, (butuh login jika pertama kali)
 karena sebuah kendala apk tidak dapat dibuild
+
+Screenshot Program
+<img src="https://github.com/yusril-iskandar-harahap/UTS-PAM/blob/main/tugas1.JPG">
